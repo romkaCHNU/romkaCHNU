@@ -1,8 +1,6 @@
 ## Hi, i'm Roman 👋
 
-Student Software Engineering<br/> 
-
-Learning C#<br/>
+# Student Software Engineering<br/> 
 
 
 # 💻 Tech Stack:
